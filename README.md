@@ -12,7 +12,7 @@ src/
   task2_naive_bayes.py              # Tom M. Mitchell-style Naive Bayes classifier
   task3_metrics.py                  # Cost-sensitive metrics: WAcc, precision, recall, TCR
   task4_training_size_experiment.py # Training-size learning-curve experiment
-  task4_generate_final_outputs.py   # Final Python-generated figures and comparison table
+  task4_final_outputs.py            # Final Python-generated figures and comparison table
 results/
   task1_results_all_versions/
   task2_results_mitchell/
@@ -62,7 +62,7 @@ python src/task1_preprocess_all_versions.py
 python src/task2_naive_bayes.py
 python src/task3_metrics.py
 python src/task4_training_size_experiment.py
-python src/task4_generate_final_outputs.py
+python src/task4_final_outputs.py
 ```
 
 The scripts use repository-relative paths. The expected dataset location is:
