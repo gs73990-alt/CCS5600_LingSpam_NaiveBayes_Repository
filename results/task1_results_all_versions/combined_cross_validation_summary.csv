@@ -1,0 +1,241 @@
+version,description,n_words,test_fold,training_emails,testing_emails,train_spam,train_ham,test_spam,test_ham,vocabulary_size,first_20_words
+bare,"No lemmatization, stop-words included",50,1,2604,289,433,2171,48,241,50,the of and to in a for is on you be that i this are will it or as language
+bare,"No lemmatization, stop-words included",50,2,2604,289,433,2171,48,241,50,the of and to in a for is on you be that i this are will or it with university
+bare,"No lemmatization, stop-words included",50,3,2604,289,433,2171,48,241,50,the of and to in a for is on be you that i this are will or it as with
+bare,"No lemmatization, stop-words included",50,4,2604,289,433,2171,48,241,50,the of and to in a for is on you be that i this are or it will as with
+bare,"No lemmatization, stop-words included",50,5,2603,290,433,2170,48,242,50,the of and to in a for is you on be i that this it are or as with will
+bare,"No lemmatization, stop-words included",50,6,2604,289,433,2171,48,241,50,the of and to in a for is on you be i that this are it or as with language
+bare,"No lemmatization, stop-words included",50,7,2604,289,433,2171,48,241,50,the of and to in a for is on you be i that this are it or as with language
+bare,"No lemmatization, stop-words included",50,8,2604,289,433,2171,48,241,50,the of and to in a for is you on be that i this are will or it with as
+bare,"No lemmatization, stop-words included",50,9,2604,289,433,2171,48,241,50,the of and to in a for is you on be i that this are it or as will with
+bare,"No lemmatization, stop-words included",50,10,2602,291,432,2170,49,242,50,the of and to in a for is you on i be that this it are or with as will
+bare,"No lemmatization, stop-words included",100,1,2604,289,433,2171,48,241,100,the of and to in a for is on you be that i this are will it or as language
+bare,"No lemmatization, stop-words included",100,2,2604,289,433,2171,48,241,100,the of and to in a for is on you be that i this are will or it with university
+bare,"No lemmatization, stop-words included",100,3,2604,289,433,2171,48,241,100,the of and to in a for is on be you that i this are will or it as with
+bare,"No lemmatization, stop-words included",100,4,2604,289,433,2171,48,241,100,the of and to in a for is on you be that i this are or it will as with
+bare,"No lemmatization, stop-words included",100,5,2603,290,433,2170,48,242,100,the of and to in a for is you on be i that this it are or as with will
+bare,"No lemmatization, stop-words included",100,6,2604,289,433,2171,48,241,100,the of and to in a for is on you be i that this are it or as with language
+bare,"No lemmatization, stop-words included",100,7,2604,289,433,2171,48,241,100,the of and to in a for is on you be i that this are it or as with language
+bare,"No lemmatization, stop-words included",100,8,2604,289,433,2171,48,241,100,the of and to in a for is you on be that i this are will or it with as
+bare,"No lemmatization, stop-words included",100,9,2604,289,433,2171,48,241,100,the of and to in a for is you on be i that this are it or as will with
+bare,"No lemmatization, stop-words included",100,10,2602,291,432,2170,49,242,100,the of and to in a for is you on i be that this it are or with as will
+bare,"No lemmatization, stop-words included",500,1,2604,289,433,2171,48,241,500,the of and to in a for is on you be that i this are will it or as language
+bare,"No lemmatization, stop-words included",500,2,2604,289,433,2171,48,241,500,the of and to in a for is on you be that i this are will or it with university
+bare,"No lemmatization, stop-words included",500,3,2604,289,433,2171,48,241,500,the of and to in a for is on be you that i this are will or it as with
+bare,"No lemmatization, stop-words included",500,4,2604,289,433,2171,48,241,500,the of and to in a for is on you be that i this are or it will as with
+bare,"No lemmatization, stop-words included",500,5,2603,290,433,2170,48,242,500,the of and to in a for is you on be i that this it are or as with will
+bare,"No lemmatization, stop-words included",500,6,2604,289,433,2171,48,241,500,the of and to in a for is on you be i that this are it or as with language
+bare,"No lemmatization, stop-words included",500,7,2604,289,433,2171,48,241,500,the of and to in a for is on you be i that this are it or as with language
+bare,"No lemmatization, stop-words included",500,8,2604,289,433,2171,48,241,500,the of and to in a for is you on be that i this are will or it with as
+bare,"No lemmatization, stop-words included",500,9,2604,289,433,2171,48,241,500,the of and to in a for is you on be i that this are it or as will with
+bare,"No lemmatization, stop-words included",500,10,2602,291,432,2170,49,242,500,the of and to in a for is you on i be that this it are or with as will
+bare,"No lemmatization, stop-words included",1000,1,2604,289,433,2171,48,241,1000,the of and to in a for is on you be that i this are will it or as language
+bare,"No lemmatization, stop-words included",1000,2,2604,289,433,2171,48,241,1000,the of and to in a for is on you be that i this are will or it with university
+bare,"No lemmatization, stop-words included",1000,3,2604,289,433,2171,48,241,1000,the of and to in a for is on be you that i this are will or it as with
+bare,"No lemmatization, stop-words included",1000,4,2604,289,433,2171,48,241,1000,the of and to in a for is on you be that i this are or it will as with
+bare,"No lemmatization, stop-words included",1000,5,2603,290,433,2170,48,242,1000,the of and to in a for is you on be i that this it are or as with will
+bare,"No lemmatization, stop-words included",1000,6,2604,289,433,2171,48,241,1000,the of and to in a for is on you be i that this are it or as with language
+bare,"No lemmatization, stop-words included",1000,7,2604,289,433,2171,48,241,1000,the of and to in a for is on you be i that this are it or as with language
+bare,"No lemmatization, stop-words included",1000,8,2604,289,433,2171,48,241,1000,the of and to in a for is you on be that i this are will or it with as
+bare,"No lemmatization, stop-words included",1000,9,2604,289,433,2171,48,241,1000,the of and to in a for is you on be i that this are it or as will with
+bare,"No lemmatization, stop-words included",1000,10,2602,291,432,2170,49,242,1000,the of and to in a for is you on i be that this it are or with as will
+bare,"No lemmatization, stop-words included",5000,1,2604,289,433,2171,48,241,5000,the of and to in a for is on you be that i this are will it or as language
+bare,"No lemmatization, stop-words included",5000,2,2604,289,433,2171,48,241,5000,the of and to in a for is on you be that i this are will or it with university
+bare,"No lemmatization, stop-words included",5000,3,2604,289,433,2171,48,241,5000,the of and to in a for is on be you that i this are will or it as with
+bare,"No lemmatization, stop-words included",5000,4,2604,289,433,2171,48,241,5000,the of and to in a for is on you be that i this are or it will as with
+bare,"No lemmatization, stop-words included",5000,5,2603,290,433,2170,48,242,5000,the of and to in a for is you on be i that this it are or as with will
+bare,"No lemmatization, stop-words included",5000,6,2604,289,433,2171,48,241,5000,the of and to in a for is on you be i that this are it or as with language
+bare,"No lemmatization, stop-words included",5000,7,2604,289,433,2171,48,241,5000,the of and to in a for is on you be i that this are it or as with language
+bare,"No lemmatization, stop-words included",5000,8,2604,289,433,2171,48,241,5000,the of and to in a for is you on be that i this are will or it with as
+bare,"No lemmatization, stop-words included",5000,9,2604,289,433,2171,48,241,5000,the of and to in a for is you on be i that this are it or as will with
+bare,"No lemmatization, stop-words included",5000,10,2602,291,432,2170,49,242,5000,the of and to in a for is you on i be that this it are or with as will
+bare,"No lemmatization, stop-words included",all,1,2604,289,433,2171,48,241,52080,the of and to in a for is on you be that i this are will it or as language
+bare,"No lemmatization, stop-words included",all,2,2604,289,433,2171,48,241,51616,the of and to in a for is on you be that i this are will or it with university
+bare,"No lemmatization, stop-words included",all,3,2604,289,433,2171,48,241,51445,the of and to in a for is on be you that i this are will or it as with
+bare,"No lemmatization, stop-words included",all,4,2604,289,433,2171,48,241,50762,the of and to in a for is on you be that i this are or it will as with
+bare,"No lemmatization, stop-words included",all,5,2603,290,433,2170,48,242,51476,the of and to in a for is you on be i that this it are or as with will
+bare,"No lemmatization, stop-words included",all,6,2604,289,433,2171,48,241,52010,the of and to in a for is on you be i that this are it or as with language
+bare,"No lemmatization, stop-words included",all,7,2604,289,433,2171,48,241,52449,the of and to in a for is on you be i that this are it or as with language
+bare,"No lemmatization, stop-words included",all,8,2604,289,433,2171,48,241,51768,the of and to in a for is you on be that i this are will or it with as
+bare,"No lemmatization, stop-words included",all,9,2604,289,433,2171,48,241,51940,the of and to in a for is you on be i that this are it or as will with
+bare,"No lemmatization, stop-words included",all,10,2602,291,432,2170,49,242,51507,the of and to in a for is you on i be that this it are or with as will
+stop,"No lemmatization, stop-words removed",50,1,2604,289,433,2171,48,241,50,is are language university s e linguistics mail information one conference de papers t d languages http english please address
+stop,"No lemmatization, stop-words removed",50,2,2604,289,433,2171,48,241,50,is are university language s e linguistics mail information de one conference papers d t http languages please english address
+stop,"No lemmatization, stop-words removed",50,3,2604,289,433,2171,48,241,50,is are university language s e linguistics information de mail one conference papers d t languages please english http address
+stop,"No lemmatization, stop-words removed",50,4,2604,289,433,2171,48,241,50,is are language university s e linguistics information mail one de conference papers t languages d http please english address
+stop,"No lemmatization, stop-words removed",50,5,2603,290,433,2170,48,242,50,is are s language university e linguistics mail information one de t papers d conference languages english was please n
+stop,"No lemmatization, stop-words removed",50,6,2604,289,433,2171,48,241,50,is are language university s e linguistics mail information one de t conference english languages papers please was http has
+stop,"No lemmatization, stop-words removed",50,7,2604,289,433,2171,48,241,50,is are language s university e linguistics mail information one de conference t languages d papers english http was please
+stop,"No lemmatization, stop-words removed",50,8,2604,289,433,2171,48,241,50,is are university language s e linguistics mail information one conference de papers t d languages please http address email
+stop,"No lemmatization, stop-words removed",50,9,2604,289,433,2171,48,241,50,is are language s university e linguistics mail information one de conference t papers d languages english please n was
+stop,"No lemmatization, stop-words removed",50,10,2602,291,432,2170,49,242,50,is are s language university e linguistics mail one information de t d conference papers languages english was n please
+stop,"No lemmatization, stop-words removed",100,1,2604,289,433,2171,48,241,100,is are language university s e linguistics mail information one conference de papers t d languages http english please address
+stop,"No lemmatization, stop-words removed",100,2,2604,289,433,2171,48,241,100,is are university language s e linguistics mail information de one conference papers d t http languages please english address
+stop,"No lemmatization, stop-words removed",100,3,2604,289,433,2171,48,241,100,is are university language s e linguistics information de mail one conference papers d t languages please english http address
+stop,"No lemmatization, stop-words removed",100,4,2604,289,433,2171,48,241,100,is are language university s e linguistics information mail one de conference papers t languages d http please english address
+stop,"No lemmatization, stop-words removed",100,5,2603,290,433,2170,48,242,100,is are s language university e linguistics mail information one de t papers d conference languages english was please n
+stop,"No lemmatization, stop-words removed",100,6,2604,289,433,2171,48,241,100,is are language university s e linguistics mail information one de t conference english languages papers please was http has
+stop,"No lemmatization, stop-words removed",100,7,2604,289,433,2171,48,241,100,is are language s university e linguistics mail information one de conference t languages d papers english http was please
+stop,"No lemmatization, stop-words removed",100,8,2604,289,433,2171,48,241,100,is are university language s e linguistics mail information one conference de papers t d languages please http address email
+stop,"No lemmatization, stop-words removed",100,9,2604,289,433,2171,48,241,100,is are language s university e linguistics mail information one de conference t papers d languages english please n was
+stop,"No lemmatization, stop-words removed",100,10,2602,291,432,2170,49,242,100,is are s language university e linguistics mail one information de t d conference papers languages english was n please
+stop,"No lemmatization, stop-words removed",500,1,2604,289,433,2171,48,241,500,is are language university s e linguistics mail information one conference de papers t d languages http english please address
+stop,"No lemmatization, stop-words removed",500,2,2604,289,433,2171,48,241,500,is are university language s e linguistics mail information de one conference papers d t http languages please english address
+stop,"No lemmatization, stop-words removed",500,3,2604,289,433,2171,48,241,500,is are university language s e linguistics information de mail one conference papers d t languages please english http address
+stop,"No lemmatization, stop-words removed",500,4,2604,289,433,2171,48,241,500,is are language university s e linguistics information mail one de conference papers t languages d http please english address
+stop,"No lemmatization, stop-words removed",500,5,2603,290,433,2170,48,242,500,is are s language university e linguistics mail information one de t papers d conference languages english was please n
+stop,"No lemmatization, stop-words removed",500,6,2604,289,433,2171,48,241,500,is are language university s e linguistics mail information one de t conference english languages papers please was http has
+stop,"No lemmatization, stop-words removed",500,7,2604,289,433,2171,48,241,500,is are language s university e linguistics mail information one de conference t languages d papers english http was please
+stop,"No lemmatization, stop-words removed",500,8,2604,289,433,2171,48,241,500,is are university language s e linguistics mail information one conference de papers t d languages please http address email
+stop,"No lemmatization, stop-words removed",500,9,2604,289,433,2171,48,241,500,is are language s university e linguistics mail information one de conference t papers d languages english please n was
+stop,"No lemmatization, stop-words removed",500,10,2602,291,432,2170,49,242,500,is are s language university e linguistics mail one information de t d conference papers languages english was n please
+stop,"No lemmatization, stop-words removed",1000,1,2604,289,433,2171,48,241,1000,is are language university s e linguistics mail information one conference de papers t d languages http english please address
+stop,"No lemmatization, stop-words removed",1000,2,2604,289,433,2171,48,241,1000,is are university language s e linguistics mail information de one conference papers d t http languages please english address
+stop,"No lemmatization, stop-words removed",1000,3,2604,289,433,2171,48,241,1000,is are university language s e linguistics information de mail one conference papers d t languages please english http address
+stop,"No lemmatization, stop-words removed",1000,4,2604,289,433,2171,48,241,1000,is are language university s e linguistics information mail one de conference papers t languages d http please english address
+stop,"No lemmatization, stop-words removed",1000,5,2603,290,433,2170,48,242,1000,is are s language university e linguistics mail information one de t papers d conference languages english was please n
+stop,"No lemmatization, stop-words removed",1000,6,2604,289,433,2171,48,241,1000,is are language university s e linguistics mail information one de t conference english languages papers please was http has
+stop,"No lemmatization, stop-words removed",1000,7,2604,289,433,2171,48,241,1000,is are language s university e linguistics mail information one de conference t languages d papers english http was please
+stop,"No lemmatization, stop-words removed",1000,8,2604,289,433,2171,48,241,1000,is are university language s e linguistics mail information one conference de papers t d languages please http address email
+stop,"No lemmatization, stop-words removed",1000,9,2604,289,433,2171,48,241,1000,is are language s university e linguistics mail information one de conference t papers d languages english please n was
+stop,"No lemmatization, stop-words removed",1000,10,2602,291,432,2170,49,242,1000,is are s language university e linguistics mail one information de t d conference papers languages english was n please
+stop,"No lemmatization, stop-words removed",5000,1,2604,289,433,2171,48,241,5000,is are language university s e linguistics mail information one conference de papers t d languages http english please address
+stop,"No lemmatization, stop-words removed",5000,2,2604,289,433,2171,48,241,5000,is are university language s e linguistics mail information de one conference papers d t http languages please english address
+stop,"No lemmatization, stop-words removed",5000,3,2604,289,433,2171,48,241,5000,is are university language s e linguistics information de mail one conference papers d t languages please english http address
+stop,"No lemmatization, stop-words removed",5000,4,2604,289,433,2171,48,241,5000,is are language university s e linguistics information mail one de conference papers t languages d http please english address
+stop,"No lemmatization, stop-words removed",5000,5,2603,290,433,2170,48,242,5000,is are s language university e linguistics mail information one de t papers d conference languages english was please n
+stop,"No lemmatization, stop-words removed",5000,6,2604,289,433,2171,48,241,5000,is are language university s e linguistics mail information one de t conference english languages papers please was http has
+stop,"No lemmatization, stop-words removed",5000,7,2604,289,433,2171,48,241,5000,is are language s university e linguistics mail information one de conference t languages d papers english http was please
+stop,"No lemmatization, stop-words removed",5000,8,2604,289,433,2171,48,241,5000,is are university language s e linguistics mail information one conference de papers t d languages please http address email
+stop,"No lemmatization, stop-words removed",5000,9,2604,289,433,2171,48,241,5000,is are language s university e linguistics mail information one de conference t papers d languages english please n was
+stop,"No lemmatization, stop-words removed",5000,10,2602,291,432,2170,49,242,5000,is are s language university e linguistics mail one information de t d conference papers languages english was n please
+stop,"No lemmatization, stop-words removed",all,1,2604,289,433,2171,48,241,52060,is are language university s e linguistics mail information one conference de papers t d languages http english please address
+stop,"No lemmatization, stop-words removed",all,2,2604,289,433,2171,48,241,51596,is are university language s e linguistics mail information de one conference papers d t http languages please english address
+stop,"No lemmatization, stop-words removed",all,3,2604,289,433,2171,48,241,51420,is are university language s e linguistics information de mail one conference papers d t languages please english http address
+stop,"No lemmatization, stop-words removed",all,4,2604,289,433,2171,48,241,50743,is are language university s e linguistics information mail one de conference papers t languages d http please english address
+stop,"No lemmatization, stop-words removed",all,5,2603,290,433,2170,48,242,51456,is are s language university e linguistics mail information one de t papers d conference languages english was please n
+stop,"No lemmatization, stop-words removed",all,6,2604,289,433,2171,48,241,51988,is are language university s e linguistics mail information one de t conference english languages papers please was http has
+stop,"No lemmatization, stop-words removed",all,7,2604,289,433,2171,48,241,52429,is are language s university e linguistics mail information one de conference t languages d papers english http was please
+stop,"No lemmatization, stop-words removed",all,8,2604,289,433,2171,48,241,51747,is are university language s e linguistics mail information one conference de papers t d languages please http address email
+stop,"No lemmatization, stop-words removed",all,9,2604,289,433,2171,48,241,51920,is are language s university e linguistics mail information one de conference t papers d languages english please n was
+stop,"No lemmatization, stop-words removed",all,10,2602,291,432,2170,49,242,51487,is are s language university e linguistics mail one information de t d conference papers languages english was n please
+lemm,"Lemmatized, stop-words included",50,1,2604,289,433,2171,48,241,50,the of be and to in a for on you language that i this have will it or as university
+lemm,"Lemmatized, stop-words included",50,2,2604,289,433,2171,48,241,50,the of and be to in a for on you language that i this have will or it university with
+lemm,"Lemmatized, stop-words included",50,3,2604,289,433,2171,48,241,50,the of be and to in a for on you language that i this have will or it as with
+lemm,"Lemmatized, stop-words included",50,4,2604,289,433,2171,48,241,50,the of be and to in a for on you that i language this have it or will as with
+lemm,"Lemmatized, stop-words included",50,5,2603,290,433,2170,48,242,50,the of be and to in a for you on i that language this have it or as with will
+lemm,"Lemmatized, stop-words included",50,6,2604,289,433,2171,48,241,50,the of be and to in a for on you i that language this have it or as with will
+lemm,"Lemmatized, stop-words included",50,7,2604,289,433,2171,48,241,50,the of be and to in a for on you i that language this have it or as with will
+lemm,"Lemmatized, stop-words included",50,8,2604,289,433,2171,48,241,50,the of be and to in a for you on that language i this have will it or with as
+lemm,"Lemmatized, stop-words included",50,9,2604,289,433,2171,48,241,50,the of be and to in a for you on i that language this have it or will as with
+lemm,"Lemmatized, stop-words included",50,10,2602,291,432,2170,49,242,50,the of be and to in a for you on i that language this have it or with as will
+lemm,"Lemmatized, stop-words included",100,1,2604,289,433,2171,48,241,100,the of be and to in a for on you language that i this have will it or as university
+lemm,"Lemmatized, stop-words included",100,2,2604,289,433,2171,48,241,100,the of and be to in a for on you language that i this have will or it university with
+lemm,"Lemmatized, stop-words included",100,3,2604,289,433,2171,48,241,100,the of be and to in a for on you language that i this have will or it as with
+lemm,"Lemmatized, stop-words included",100,4,2604,289,433,2171,48,241,100,the of be and to in a for on you that i language this have it or will as with
+lemm,"Lemmatized, stop-words included",100,5,2603,290,433,2170,48,242,100,the of be and to in a for you on i that language this have it or as with will
+lemm,"Lemmatized, stop-words included",100,6,2604,289,433,2171,48,241,100,the of be and to in a for on you i that language this have it or as with will
+lemm,"Lemmatized, stop-words included",100,7,2604,289,433,2171,48,241,100,the of be and to in a for on you i that language this have it or as with will
+lemm,"Lemmatized, stop-words included",100,8,2604,289,433,2171,48,241,100,the of be and to in a for you on that language i this have will it or with as
+lemm,"Lemmatized, stop-words included",100,9,2604,289,433,2171,48,241,100,the of be and to in a for you on i that language this have it or will as with
+lemm,"Lemmatized, stop-words included",100,10,2602,291,432,2170,49,242,100,the of be and to in a for you on i that language this have it or with as will
+lemm,"Lemmatized, stop-words included",500,1,2604,289,433,2171,48,241,500,the of be and to in a for on you language that i this have will it or as university
+lemm,"Lemmatized, stop-words included",500,2,2604,289,433,2171,48,241,500,the of and be to in a for on you language that i this have will or it university with
+lemm,"Lemmatized, stop-words included",500,3,2604,289,433,2171,48,241,500,the of be and to in a for on you language that i this have will or it as with
+lemm,"Lemmatized, stop-words included",500,4,2604,289,433,2171,48,241,500,the of be and to in a for on you that i language this have it or will as with
+lemm,"Lemmatized, stop-words included",500,5,2603,290,433,2170,48,242,500,the of be and to in a for you on i that language this have it or as with will
+lemm,"Lemmatized, stop-words included",500,6,2604,289,433,2171,48,241,500,the of be and to in a for on you i that language this have it or as with will
+lemm,"Lemmatized, stop-words included",500,7,2604,289,433,2171,48,241,500,the of be and to in a for on you i that language this have it or as with will
+lemm,"Lemmatized, stop-words included",500,8,2604,289,433,2171,48,241,500,the of be and to in a for you on that language i this have will it or with as
+lemm,"Lemmatized, stop-words included",500,9,2604,289,433,2171,48,241,500,the of be and to in a for you on i that language this have it or will as with
+lemm,"Lemmatized, stop-words included",500,10,2602,291,432,2170,49,242,500,the of be and to in a for you on i that language this have it or with as will
+lemm,"Lemmatized, stop-words included",1000,1,2604,289,433,2171,48,241,1000,the of be and to in a for on you language that i this have will it or as university
+lemm,"Lemmatized, stop-words included",1000,2,2604,289,433,2171,48,241,1000,the of and be to in a for on you language that i this have will or it university with
+lemm,"Lemmatized, stop-words included",1000,3,2604,289,433,2171,48,241,1000,the of be and to in a for on you language that i this have will or it as with
+lemm,"Lemmatized, stop-words included",1000,4,2604,289,433,2171,48,241,1000,the of be and to in a for on you that i language this have it or will as with
+lemm,"Lemmatized, stop-words included",1000,5,2603,290,433,2170,48,242,1000,the of be and to in a for you on i that language this have it or as with will
+lemm,"Lemmatized, stop-words included",1000,6,2604,289,433,2171,48,241,1000,the of be and to in a for on you i that language this have it or as with will
+lemm,"Lemmatized, stop-words included",1000,7,2604,289,433,2171,48,241,1000,the of be and to in a for on you i that language this have it or as with will
+lemm,"Lemmatized, stop-words included",1000,8,2604,289,433,2171,48,241,1000,the of be and to in a for you on that language i this have will it or with as
+lemm,"Lemmatized, stop-words included",1000,9,2604,289,433,2171,48,241,1000,the of be and to in a for you on i that language this have it or will as with
+lemm,"Lemmatized, stop-words included",1000,10,2602,291,432,2170,49,242,1000,the of be and to in a for you on i that language this have it or with as will
+lemm,"Lemmatized, stop-words included",5000,1,2604,289,433,2171,48,241,5000,the of be and to in a for on you language that i this have will it or as university
+lemm,"Lemmatized, stop-words included",5000,2,2604,289,433,2171,48,241,5000,the of and be to in a for on you language that i this have will or it university with
+lemm,"Lemmatized, stop-words included",5000,3,2604,289,433,2171,48,241,5000,the of be and to in a for on you language that i this have will or it as with
+lemm,"Lemmatized, stop-words included",5000,4,2604,289,433,2171,48,241,5000,the of be and to in a for on you that i language this have it or will as with
+lemm,"Lemmatized, stop-words included",5000,5,2603,290,433,2170,48,242,5000,the of be and to in a for you on i that language this have it or as with will
+lemm,"Lemmatized, stop-words included",5000,6,2604,289,433,2171,48,241,5000,the of be and to in a for on you i that language this have it or as with will
+lemm,"Lemmatized, stop-words included",5000,7,2604,289,433,2171,48,241,5000,the of be and to in a for on you i that language this have it or as with will
+lemm,"Lemmatized, stop-words included",5000,8,2604,289,433,2171,48,241,5000,the of be and to in a for you on that language i this have will it or with as
+lemm,"Lemmatized, stop-words included",5000,9,2604,289,433,2171,48,241,5000,the of be and to in a for you on i that language this have it or will as with
+lemm,"Lemmatized, stop-words included",5000,10,2602,291,432,2170,49,242,5000,the of be and to in a for you on i that language this have it or with as will
+lemm,"Lemmatized, stop-words included",all,1,2604,289,433,2171,48,241,46653,the of be and to in a for on you language that i this have will it or as university
+lemm,"Lemmatized, stop-words included",all,2,2604,289,433,2171,48,241,46221,the of and be to in a for on you language that i this have will or it university with
+lemm,"Lemmatized, stop-words included",all,3,2604,289,433,2171,48,241,46158,the of be and to in a for on you language that i this have will or it as with
+lemm,"Lemmatized, stop-words included",all,4,2604,289,433,2171,48,241,45345,the of be and to in a for on you that i language this have it or will as with
+lemm,"Lemmatized, stop-words included",all,5,2603,290,433,2170,48,242,45930,the of be and to in a for you on i that language this have it or as with will
+lemm,"Lemmatized, stop-words included",all,6,2604,289,433,2171,48,241,46466,the of be and to in a for on you i that language this have it or as with will
+lemm,"Lemmatized, stop-words included",all,7,2604,289,433,2171,48,241,46975,the of be and to in a for on you i that language this have it or as with will
+lemm,"Lemmatized, stop-words included",all,8,2604,289,433,2171,48,241,46400,the of be and to in a for you on that language i this have will it or with as
+lemm,"Lemmatized, stop-words included",all,9,2604,289,433,2171,48,241,46427,the of be and to in a for you on i that language this have it or will as with
+lemm,"Lemmatized, stop-words included",all,10,2602,291,432,2170,49,242,46052,the of be and to in a for you on i that language this have it or with as will
+lemm_stop,"Lemmatized, stop-words removed",50,1,2604,289,433,2171,48,241,50,language university s e mail linguistic de information address one conference d send t order please include english workshop http
+lemm_stop,"Lemmatized, stop-words removed",50,2,2604,289,433,2171,48,241,50,language university s e mail linguistic de information address one conference d send order please http t include english workshop
+lemm_stop,"Lemmatized, stop-words removed",50,3,2604,289,433,2171,48,241,50,language university s e linguistic mail de information address conference one d order please send include english workshop http t
+lemm_stop,"Lemmatized, stop-words removed",50,4,2604,289,433,2171,48,241,50,language university s e mail linguistic de information address one conference send order t please workshop include d work http
+lemm_stop,"Lemmatized, stop-words removed",50,5,2603,290,433,2170,48,242,50,language s university e mail linguistic one address de information conference t send order d please english work include email
+lemm_stop,"Lemmatized, stop-words removed",50,6,2604,289,433,2171,48,241,50,language university s e mail linguistic information de one address conference t english please order work send include http n
+lemm_stop,"Lemmatized, stop-words removed",50,7,2604,289,433,2171,48,241,50,language s university e mail linguistic de one information address conference t d english send order please work include http
+lemm_stop,"Lemmatized, stop-words removed",50,8,2604,289,433,2171,48,241,50,language university s e mail linguistic de information address one conference order send d please t include workshop work paper
+lemm_stop,"Lemmatized, stop-words removed",50,9,2604,289,433,2171,48,241,50,language university s e mail linguistic one information de address conference t d order send english please work include n
+lemm_stop,"Lemmatized, stop-words removed",50,10,2602,291,432,2170,49,242,50,language s university e mail linguistic de one address information t conference order d send english work please include email
+lemm_stop,"Lemmatized, stop-words removed",100,1,2604,289,433,2171,48,241,100,language university s e mail linguistic de information address one conference d send t order please include english workshop http
+lemm_stop,"Lemmatized, stop-words removed",100,2,2604,289,433,2171,48,241,100,language university s e mail linguistic de information address one conference d send order please http t include english workshop
+lemm_stop,"Lemmatized, stop-words removed",100,3,2604,289,433,2171,48,241,100,language university s e linguistic mail de information address conference one d order please send include english workshop http t
+lemm_stop,"Lemmatized, stop-words removed",100,4,2604,289,433,2171,48,241,100,language university s e mail linguistic de information address one conference send order t please workshop include d work http
+lemm_stop,"Lemmatized, stop-words removed",100,5,2603,290,433,2170,48,242,100,language s university e mail linguistic one address de information conference t send order d please english work include email
+lemm_stop,"Lemmatized, stop-words removed",100,6,2604,289,433,2171,48,241,100,language university s e mail linguistic information de one address conference t english please order work send include http n
+lemm_stop,"Lemmatized, stop-words removed",100,7,2604,289,433,2171,48,241,100,language s university e mail linguistic de one information address conference t d english send order please work include http
+lemm_stop,"Lemmatized, stop-words removed",100,8,2604,289,433,2171,48,241,100,language university s e mail linguistic de information address one conference order send d please t include workshop work paper
+lemm_stop,"Lemmatized, stop-words removed",100,9,2604,289,433,2171,48,241,100,language university s e mail linguistic one information de address conference t d order send english please work include n
+lemm_stop,"Lemmatized, stop-words removed",100,10,2602,291,432,2170,49,242,100,language s university e mail linguistic de one address information t conference order d send english work please include email
+lemm_stop,"Lemmatized, stop-words removed",500,1,2604,289,433,2171,48,241,500,language university s e mail linguistic de information address one conference d send t order please include english workshop http
+lemm_stop,"Lemmatized, stop-words removed",500,2,2604,289,433,2171,48,241,500,language university s e mail linguistic de information address one conference d send order please http t include english workshop
+lemm_stop,"Lemmatized, stop-words removed",500,3,2604,289,433,2171,48,241,500,language university s e linguistic mail de information address conference one d order please send include english workshop http t
+lemm_stop,"Lemmatized, stop-words removed",500,4,2604,289,433,2171,48,241,500,language university s e mail linguistic de information address one conference send order t please workshop include d work http
+lemm_stop,"Lemmatized, stop-words removed",500,5,2603,290,433,2170,48,242,500,language s university e mail linguistic one address de information conference t send order d please english work include email
+lemm_stop,"Lemmatized, stop-words removed",500,6,2604,289,433,2171,48,241,500,language university s e mail linguistic information de one address conference t english please order work send include http n
+lemm_stop,"Lemmatized, stop-words removed",500,7,2604,289,433,2171,48,241,500,language s university e mail linguistic de one information address conference t d english send order please work include http
+lemm_stop,"Lemmatized, stop-words removed",500,8,2604,289,433,2171,48,241,500,language university s e mail linguistic de information address one conference order send d please t include workshop work paper
+lemm_stop,"Lemmatized, stop-words removed",500,9,2604,289,433,2171,48,241,500,language university s e mail linguistic one information de address conference t d order send english please work include n
+lemm_stop,"Lemmatized, stop-words removed",500,10,2602,291,432,2170,49,242,500,language s university e mail linguistic de one address information t conference order d send english work please include email
+lemm_stop,"Lemmatized, stop-words removed",1000,1,2604,289,433,2171,48,241,1000,language university s e mail linguistic de information address one conference d send t order please include english workshop http
+lemm_stop,"Lemmatized, stop-words removed",1000,2,2604,289,433,2171,48,241,1000,language university s e mail linguistic de information address one conference d send order please http t include english workshop
+lemm_stop,"Lemmatized, stop-words removed",1000,3,2604,289,433,2171,48,241,1000,language university s e linguistic mail de information address conference one d order please send include english workshop http t
+lemm_stop,"Lemmatized, stop-words removed",1000,4,2604,289,433,2171,48,241,1000,language university s e mail linguistic de information address one conference send order t please workshop include d work http
+lemm_stop,"Lemmatized, stop-words removed",1000,5,2603,290,433,2170,48,242,1000,language s university e mail linguistic one address de information conference t send order d please english work include email
+lemm_stop,"Lemmatized, stop-words removed",1000,6,2604,289,433,2171,48,241,1000,language university s e mail linguistic information de one address conference t english please order work send include http n
+lemm_stop,"Lemmatized, stop-words removed",1000,7,2604,289,433,2171,48,241,1000,language s university e mail linguistic de one information address conference t d english send order please work include http
+lemm_stop,"Lemmatized, stop-words removed",1000,8,2604,289,433,2171,48,241,1000,language university s e mail linguistic de information address one conference order send d please t include workshop work paper
+lemm_stop,"Lemmatized, stop-words removed",1000,9,2604,289,433,2171,48,241,1000,language university s e mail linguistic one information de address conference t d order send english please work include n
+lemm_stop,"Lemmatized, stop-words removed",1000,10,2602,291,432,2170,49,242,1000,language s university e mail linguistic de one address information t conference order d send english work please include email
+lemm_stop,"Lemmatized, stop-words removed",5000,1,2604,289,433,2171,48,241,5000,language university s e mail linguistic de information address one conference d send t order please include english workshop http
+lemm_stop,"Lemmatized, stop-words removed",5000,2,2604,289,433,2171,48,241,5000,language university s e mail linguistic de information address one conference d send order please http t include english workshop
+lemm_stop,"Lemmatized, stop-words removed",5000,3,2604,289,433,2171,48,241,5000,language university s e linguistic mail de information address conference one d order please send include english workshop http t
+lemm_stop,"Lemmatized, stop-words removed",5000,4,2604,289,433,2171,48,241,5000,language university s e mail linguistic de information address one conference send order t please workshop include d work http
+lemm_stop,"Lemmatized, stop-words removed",5000,5,2603,290,433,2170,48,242,5000,language s university e mail linguistic one address de information conference t send order d please english work include email
+lemm_stop,"Lemmatized, stop-words removed",5000,6,2604,289,433,2171,48,241,5000,language university s e mail linguistic information de one address conference t english please order work send include http n
+lemm_stop,"Lemmatized, stop-words removed",5000,7,2604,289,433,2171,48,241,5000,language s university e mail linguistic de one information address conference t d english send order please work include http
+lemm_stop,"Lemmatized, stop-words removed",5000,8,2604,289,433,2171,48,241,5000,language university s e mail linguistic de information address one conference order send d please t include workshop work paper
+lemm_stop,"Lemmatized, stop-words removed",5000,9,2604,289,433,2171,48,241,5000,language university s e mail linguistic one information de address conference t d order send english please work include n
+lemm_stop,"Lemmatized, stop-words removed",5000,10,2602,291,432,2170,49,242,5000,language s university e mail linguistic de one address information t conference order d send english work please include email
+lemm_stop,"Lemmatized, stop-words removed",all,1,2604,289,433,2171,48,241,46634,language university s e mail linguistic de information address one conference d send t order please include english workshop http
+lemm_stop,"Lemmatized, stop-words removed",all,2,2604,289,433,2171,48,241,46203,language university s e mail linguistic de information address one conference d send order please http t include english workshop
+lemm_stop,"Lemmatized, stop-words removed",all,3,2604,289,433,2171,48,241,46136,language university s e linguistic mail de information address conference one d order please send include english workshop http t
+lemm_stop,"Lemmatized, stop-words removed",all,4,2604,289,433,2171,48,241,45328,language university s e mail linguistic de information address one conference send order t please workshop include d work http
+lemm_stop,"Lemmatized, stop-words removed",all,5,2603,290,433,2170,48,242,45913,language s university e mail linguistic one address de information conference t send order d please english work include email
+lemm_stop,"Lemmatized, stop-words removed",all,6,2604,289,433,2171,48,241,46448,language university s e mail linguistic information de one address conference t english please order work send include http n
+lemm_stop,"Lemmatized, stop-words removed",all,7,2604,289,433,2171,48,241,46956,language s university e mail linguistic de one information address conference t d english send order please work include http
+lemm_stop,"Lemmatized, stop-words removed",all,8,2604,289,433,2171,48,241,46381,language university s e mail linguistic de information address one conference order send d please t include workshop work paper
+lemm_stop,"Lemmatized, stop-words removed",all,9,2604,289,433,2171,48,241,46409,language university s e mail linguistic one information de address conference t d order send english please work include n
+lemm_stop,"Lemmatized, stop-words removed",all,10,2602,291,432,2170,49,242,46034,language s university e mail linguistic de one address information t conference order d send english work please include email

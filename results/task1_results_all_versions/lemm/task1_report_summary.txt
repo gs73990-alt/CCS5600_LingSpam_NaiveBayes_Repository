@@ -1,0 +1,22 @@
+Task 1: Data Preprocessing and Baseline Exploration
+Corpus version: lemm
+Description: Lemmatized, stop-words included
+Dataset folder: C:\Users\the50\Downloads\lingspam_public\lingspam_public\lemm
+Total emails: 2893
+Spam emails: 481
+Ham emails: 2412
+
+Preprocessing completed:
+1. Loaded emails from part1 to part10.
+2. Assigned labels using filenames.
+3. Files starting with spmsg were labelled as spam.
+4. All other files were labelled as ham.
+5. Extracted subject from the first Subject line.
+6. Extracted body from the remaining email text.
+7. Tokenized text into lowercase alphabetic words.
+8. Built vocabularies using training folds only.
+9. Created binary feature vectors where 1 means the word appears and 0 means the word does not appear.
+
+Label encoding:
+spam = 1
+ham = 0

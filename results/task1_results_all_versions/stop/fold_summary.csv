@@ -1,0 +1,11 @@
+version,fold,total_emails,spam_emails,ham_emails
+stop,1,289,48,241
+stop,2,289,48,241
+stop,3,289,48,241
+stop,4,289,48,241
+stop,5,290,48,242
+stop,6,289,48,241
+stop,7,289,48,241
+stop,8,289,48,241
+stop,9,289,48,241
+stop,10,291,49,242

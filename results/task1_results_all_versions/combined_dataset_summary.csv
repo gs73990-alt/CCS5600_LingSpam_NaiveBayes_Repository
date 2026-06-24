@@ -1,0 +1,5 @@
+version,description,total_emails,spam_emails,ham_emails
+bare,"No lemmatization, stop-words included",2893,481,2412
+stop,"No lemmatization, stop-words removed",2893,481,2412
+lemm,"Lemmatized, stop-words included",2893,481,2412
+lemm_stop,"Lemmatized, stop-words removed",2893,481,2412
